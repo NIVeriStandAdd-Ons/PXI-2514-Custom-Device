@@ -1,4 +1,6 @@
-**NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.**
+## **NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.**
+
+For most applications, we recommend moving to the NI-supported [Routing and Faulting Custom Device](https://github.com/ni/niveristand-routing-and-faulting-custom-device)
 
 
 ## Fault Insertion Units Custom Device ##
