@@ -1,19 +1,17 @@
-## **NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.**
-
 For most applications, we recommend moving to the NI-supported [Routing and Faulting Custom Device](https://github.com/ni/niveristand-routing-and-faulting-custom-device)
 
 
-## Fault Insertion Units Custom Device ##
+## PXI-2514 Custom Device ##
 
-**Fault Insertion Units Custom Device** is actually three different custom devices for the 3 NI FIUs, PXI-2510, 2512 and 2514. 
+**PXI-2514 Custom Device** is a custom device for the NI fault insert unit PXI-2514. 
 
 ### LabVIEW Version ###
 
-LabVIEW 2011
+LabVIEW 2020
 
 ### Built Availability ###
 
-This IP is built and available for NI VeriStand 2012 and later [here](http://www.ni.com/example/31248/en/).
+This IP is built and available for NI VeriStand 2020 and later [here](http://www.ni.com/example/31248/en/).
 
 ### Quality, Limitations ###
 
