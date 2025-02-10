@@ -11,7 +11,8 @@ LabVIEW 2020
 
 ### Built Availability ###
 
-This IP is built and available for NI VeriStand 2020 and later [here](http://www.ni.com/example/31248/en/).
+This IP is built and available for NI VeriStand 2020 and later.
+For VeriStand 2020 or later: See Releases tab.
 
 ### Quality, Limitations ###
 
