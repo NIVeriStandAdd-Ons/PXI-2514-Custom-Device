@@ -3,7 +3,7 @@ For most applications, we recommend moving to the NI-supported [Routing and Faul
 
 ## PXI-2514 Custom Device ##
 
-**PXI-2514 Custom Device** is a custom device for the NI fault insert unit PXI-2514. 
+**PXI-2514 Custom Device** is a custom device for the NI fault insert unit PXI-2514 and PXIe-2514. 
 
 ### LabVIEW Version ###
 
