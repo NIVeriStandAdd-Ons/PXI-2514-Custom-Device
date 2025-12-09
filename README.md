@@ -7,7 +7,7 @@ For most applications, we recommend moving to the NI-supported [Routing and Faul
 
 ### LabVIEW Version ###
 
-LabVIEW 2020
+LabVIEW 2020 32-bit
 
 ### Built Availability ###
 
